@@ -1,1 +1,4 @@
 welcome to devops
+commiting directly from branch in remote
+commiting directly from local
+
