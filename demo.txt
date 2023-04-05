@@ -1,6 +1,9 @@
 bye welcome to devops
 commiting directly from branch in remote
 test directly from local
+hi welcome to devops
+commiting directly from branch in remote
+bye commiting directly from local
 testing to verify rebase, editimg in remote
 making changes to verify merge
 hello
